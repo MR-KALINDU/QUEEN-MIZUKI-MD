@@ -6,7 +6,7 @@
 ### FIRST SCAN QR
 
     Scan the QR and get the SESSION ID
-<a href='https://mr-kalindu-qr.onrender.com/' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://queen-mizuki-qr.onrender.com' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 
@@ -28,17 +28,10 @@
 
 
 
-  ## **`QUEEN-MIZUKI BOT OWNERS`**
+  ## **`QUEEN-MIZUKI BOT DEVELOPER`**
 
 
    <a href="https://github.com/MR-KALINDU/"><img src="https://avatars.githubusercontent.com/u/132440655?s=400&u=ad99f3d61910d16d6979c089587618e56b3cffc9&v=4" width=120 height=120></a>   
 
 |**[`MR-KALINDU`](https://github.com/MR-KALINDU)**|
 
----
-
-<a href="https://github.com/CYBER-THUSHAN"><img src="https://avatars.githubusercontent.com/u/107739528?v=4" width=120 height=120></a> 
-
-|**[`CYBER-THUSHAN`](https://github.com/CYBER-THUSHAN)**|
-
----
